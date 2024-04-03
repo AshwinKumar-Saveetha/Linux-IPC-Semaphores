@@ -24,6 +24,7 @@ Execute the C Program for the desired output.
 Developed by:Ashwin Kumar A
 
 Reg No: 212223040021
+```
 /*
  * sem.c  - demonstrates a basic producer-consumer
  *                            implementation.              */
@@ -107,7 +108,7 @@ if(NUM_LOOPS>=10)    {
 	    break;
     }
     return 0;}
-
+```
 
 
 ## OUTPUT
